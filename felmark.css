@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic HTML Example</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS -->
+</head>
+<style > body {
+    background-image: url('third.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {
+    color: red;
+} 
+p {
+    color: white;
+}
+h2 {
+    color: red;
+}
+li {
+    color: white;
+}
+</style>
+<body>
+    <header>
+        <img src="second.jpeg" alt="My Profile Picture" width="200">
+        <h1>Felmark Corda</h1>
+        <p>Curvada Tukuran ZDS</p>
+        09639680682
+    </header>
+
+    <h2>Career Objectives</h2>
+    <p>To use my stock knowledge to share with other people.</p>
+
+    <section>
+        <h2>Personal Background</h2>
+        <ul>
+            <li>Birth Date: October 31, 2005</li>
+            <li>Birth Place: Curvada Tukuran ZDS</li>
+            <li>Address: Curvada Tukuran Zamboanga del Sur</li>
+            <li>Father's Name: Lemenho</li>
+            <li>Mother's Name: Kim Jiwon</li>
+            <li>Age: 39</li>
+            <li>Weight: 75kg</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Educational Background</h2>
+        <ol>
+            <li>Sto. Niño</li>
+            <li>Hyrons</li>
+            <li>Curvada</li>
+            <li>Central</li>
+        </ol>
+    </section>
+
+    <footer>
+        <h2>Skills</h2>
+        <ul>
+            <li>Editing</li>
+            <li>Welding</li>
+            <li>Sketching</li>
+            <li>Programming</li>
+        </ul>
+    </footer>
+
+    <h2>Reference</h2>
+    <ul>
+        <li><h3>DEXTER</h3></li>
+        <p>Address: Sto. Niño</p>
+    </ul>
+
+    <h2>Status</h2>
+    <p>Single until I die</p>
+
+    <h2>Motivation</h2>
+    <ol>
+        <li>Family</li>
+        <li>Jowa</li>
+        <li>God</li>
+    </ol>
+</body>
+</html>
+
+
